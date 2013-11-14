@@ -12,3 +12,7 @@ Things we need:
 A tremendous thank you to Y Combinator and all of the presenters — it was an unforgettable experience.
 
 See you all at the after party!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/paulshi/startup-school-2013/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
